@@ -1,0 +1,4 @@
+Create a bash script that does the following
+  -> Requests for a file name in real-time.
+  -> Use this file name to create a basic helloworld code.
+  -> Compile this ".c" file and execute it
